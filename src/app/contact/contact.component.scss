@@ -1,0 +1,21 @@
+.page-content-element {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: 50%;
+  padding: 20px;
+  background-color: rgb(31, 34, 51);
+  color: white;
+  border-radius: 5px;
+  margin: 0 100px 0;
+  border: 1px solid;
+  min-height: 200px;
+  border-color: rgb(205, 53, 53);
+}
+.contact-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
