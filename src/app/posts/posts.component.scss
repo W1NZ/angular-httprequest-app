@@ -9,6 +9,7 @@
   margin: 0 100px 0;
   border: 1px solid;
   min-height: 200px;
+  margin-bottom: 20px;
   border-color: rgb(205, 53, 53);
 }
 .page-content-text {
@@ -29,6 +30,7 @@
 }
 .content-link {
   color: rgb(53, 188, 247);
+
   font-weight: bold;
   &:hover {
     color: rgb(2, 135, 171);
