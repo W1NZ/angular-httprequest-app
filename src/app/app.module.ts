@@ -10,6 +10,8 @@ import { PageContentComponent } from './page-content/page-content.component';
 import { PageInfoComponent } from './page-info/page-info.component';
 import { ContactComponent } from './contact/contact.component';
 import { PostsComponent } from './posts/posts.component';
+import { FooterComponent } from './footer/footer.component';
+import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 
 
 @NgModule({
@@ -21,12 +23,14 @@ import { PostsComponent } from './posts/posts.component';
     PageInfoComponent,
     ContactComponent,
     PostsComponent,
+    FooterComponent,
 
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
-    HttpClientModule
+    HttpClientModule,
+    FontAwesomeModule
   ],
   providers: [],
   bootstrap: [AppComponent]

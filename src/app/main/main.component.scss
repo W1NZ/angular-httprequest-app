@@ -1,6 +1,8 @@
-.page-layout {
+.page-main {
+  margin: 20px 0 10px;
+  min-height: 87vh;
+}
+app-footer {
   display: flex;
-  flex-direction: column;
-  gap: 20px;
-  padding: 0 80px 0;
+  justify-self: flex-end;
 }
