@@ -6,3 +6,5 @@ Website: https://friendly-pony-58ce7b.netlify.app/
 
 ## Main view:
 ![image](https://github.com/W1NZ/angular-httprequest-app/assets/92310223/88a87793-ef5a-4022-899c-74c8751504b5)
+
+Disclaimer: Site is designed only for desktop, if you want to check my knowledge about Responsive Web Design check other projects.
